@@ -1,8 +1,8 @@
 # Highlights
 Repo highlighting the demo websites
 
-[MoWords](www.MoWords.fun): moving words game
+[MoWords](http://www.MoWords.fun): moving words game
 
-[Positive?](www.AreYouPositive.fun): math game
+[Positive?](http://www.AreYouPositive.fun): math game
 
-[BeerTasting](www.BeerTasting.life): beer tasting rating application
+[BeerTasting](http://www.BeerTasting.life): beer tasting rating application
