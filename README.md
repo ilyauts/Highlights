@@ -7,4 +7,6 @@ Shown below are the demo websites for some of the projects that have been recent
 
 [BeerTasting](http://www.BeerTasting.life): beer tasting rating application (2018)
 
+[Jif Dashboard](https://jpmorganchase.github.io/jif-dashboard/demo/): Custom built widget framework (2016)
+
 [EQNS](http://www.TheEQNS.com): Solutions To Life's Problems (2015)
