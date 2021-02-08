@@ -5,7 +5,7 @@ Shown below are the demo websites for some of the projects that have been recent
 
 [MoWords](https://MoWords.herokuapp.com): scrollable word-search game (2018)
 
-[BeerTasting](http://www.BeerTasting.life): beer tasting rating application (2018-2020)
+[BeerTasting](http://www.BeerTasting.life): beer tasting rating application (2018-Present)
 
 [Jif Dashboard](https://jpmorganchase.github.io/jif-dashboard/demo/): Custom built widget framework (2016)
 
